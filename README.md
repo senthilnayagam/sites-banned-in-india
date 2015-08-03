@@ -22,6 +22,10 @@ sites banned in india
 
 
 # information source
+https://en.wikipedia.org/wiki/Internet_censorship_in_India
+
+
+check the OLD_DATA for previous banned sites
 
 
 # ISP
