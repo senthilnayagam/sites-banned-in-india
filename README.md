@@ -5,6 +5,9 @@ this order mentions it should not be disclosed
 
 http://s3.documentcloud.org/documents/2190269/2015-07-31-dot-block-order-decency.pdf
 
+alternate link
+http://cis-india.org/internet-governance/resources/dot-morality-block-order-2015-07-31/view
+
 I have not uploaded this document
 
 
